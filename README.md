@@ -2,8 +2,7 @@
 Created by Ganidu Bandara
 for the final year project of Bachelors of Science in computer science (university of Westminster)
 A questionaire generator for the local G.C.E. Ordinary Level science education subject examination.
-
-I developed an AI-powered question paper generation system tailored for Sri Lankan G.C.E. Ordinary Level Science education. The system leverages cutting-edge LLMs (Large Language Models) and embedding models to generate exam-ready multiple-choice and essay-type questions from syllabus-based study material.
+The system leverages cutting-edge LLMs (Large Language Models) and embedding models to generate exam-ready multiple-choice and essay-type questions from syllabus-based study material.
 
 Key Highlights:
 
