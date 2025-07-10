@@ -1,0 +1,11 @@
+langchain
+streamlit
+tempfile
+huggingface_hub
+reportlab
+dotenv
+pdfplumber
+transformers
+sentence-transformers
+langchain-community
+chromadb
